@@ -1,0 +1,6 @@
+@InfraIQ.BFF_HostAddress = http://localhost:5037
+
+GET {{InfraIQ.BFF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

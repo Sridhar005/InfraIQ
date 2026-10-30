@@ -1,0 +1,6 @@
+@InfraIQ.IdentityTenantService_HostAddress = http://localhost:5174
+
+GET {{InfraIQ.IdentityTenantService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

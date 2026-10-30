@@ -1,0 +1,6 @@
+@InfraIQ.AssetService_HostAddress = http://localhost:5081
+
+GET {{InfraIQ.AssetService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

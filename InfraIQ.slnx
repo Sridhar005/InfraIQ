@@ -1,0 +1,44 @@
+<Solution>
+  <Folder Name="/apps/" />
+  <Folder Name="/apps/services/" />
+  <Folder Name="/apps/services/bff-service/">
+    <Project Path="apps/services/bff-service/InfraIQ.BFF.csproj" />
+  </Folder>
+  <Folder Name="/libs/" />
+  <Folder Name="/libs/ApiContracts/">
+    <Project Path="libs/ApiContracts/InfraIQ.ApiContracts.csproj" />
+  </Folder>
+  <Folder Name="/libs/Auth/">
+    <Project Path="libs/Auth/InfraIQ.Auth.csproj" />
+  </Folder>
+  <Folder Name="/libs/Cache/">
+    <Project Path="libs/Cache/InfraIQ.Cache.csproj" />
+  </Folder>
+  <Folder Name="/libs/Common/">
+    <Project Path="libs/Common/InfraIQ.Common.csproj" />
+  </Folder>
+  <Folder Name="/libs/Database/">
+    <Project Path="libs/Database/InfraIQ.Database.csproj" />
+  </Folder>
+  <Folder Name="/libs/Events/">
+    <Project Path="libs/Events/InfraIQ.Events.csproj" />
+  </Folder>
+  <Folder Name="/libs/Messaging/">
+    <Project Path="libs/Messaging/InfraIQ.Messaging.csproj" />
+  </Folder>
+  <Folder Name="/libs/Observability/">
+    <Project Path="libs/Observability/InfraIQ.Observability.csproj" />
+  </Folder>
+  <Folder Name="/libs/Providers/">
+    <Project Path="libs/Providers/InfraIQ.Providers.csproj" />
+  </Folder>
+  <Folder Name="/libs/Storage/">
+    <Project Path="libs/Storage/InfraIQ.Storage.csproj" />
+  </Folder>
+  <Folder Name="/libs/Tenant/">
+    <Project Path="libs/Tenant/InfraIQ.Tenant.csproj" />
+  </Folder>
+  <Folder Name="/libs/Testing/">
+    <Project Path="libs/Testing/InfraIQ.Testing.csproj" />
+  </Folder>
+</Solution>
